@@ -192,9 +192,9 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -204,7 +204,7 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-![Snake animation](https://github.com/EdeSufiatti/EdeSufiatti/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/EdeSufiatti/EdeSufiatti/output/github-contribution-grid-snake.svg" />
 
 </div>
 
