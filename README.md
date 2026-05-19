@@ -72,7 +72,7 @@ I work on projects combining business operations, automation, data synchronizati
 
 Enterprise platform focused on operational workflow management.
 
-Main features:
+### Main Features
 
 - Billing workflow management
 - Commercial and financial approvals
@@ -102,7 +102,7 @@ Main features:
 
 Development of synchronization and integration systems between enterprise databases and APIs.
 
-Projects include:
+### Focus Areas
 
 - Oracle integrations
 - PostgreSQL synchronization
@@ -118,7 +118,7 @@ Projects include:
 
 Artificial Intelligence and automation projects developed during FIAP studies.
 
-Topics include:
+### Topics
 
 - Python automation
 - Data analysis
@@ -192,9 +192,15 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true" />
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+/>
 
 </div>
 
@@ -204,7 +210,9 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EdeSufiatti/EdeSufiatti/output/github-contribution-grid-snake.svg" />
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=EdeSufiatti&theme=tokyo-night&hide_border=true" 
+/>
 
 </div>
 
@@ -213,6 +221,20 @@ Currently improving skills and projects involving:
 # Professional Vision
 
 > Technology should solve real operational problems, automate repetitive processes and improve business efficiency.
+
+---
+
+# Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edemir-sufiatti-5360644b)
+
+[![GitHub](https://img.shields.io/badge/GitHub-EdeSufiatti-181717?style=for-the-badge&logo=github)](https://github.com/EdeSufiatti)
+
+[![Website](https://img.shields.io/badge/Website-ADOCS-16a34a?style=for-the-badge&logo=googlechrome)](https://www.adocs.com.br)
+
+</div>
 
 ---
 
