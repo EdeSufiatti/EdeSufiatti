@@ -194,15 +194,12 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-/>
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-/>
+<a href="https://github.com/EdeSufiatti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/EdeSufiatti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -212,9 +209,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&
 
 <div align="center">
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=EdeSufiatti&theme=tokyo-night&hide_border=true" 
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdeSufiatti&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
