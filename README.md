@@ -194,12 +194,14 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-<a href="https://github.com/EdeSufiatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdeSufiatti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/EdeSufiatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdeSufiatti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdeSufiatti&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdeSufiatti&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdeSufiatti&theme=tokyonight" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdeSufiatti&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+
+<img src="https://streak-stats.demolab.com/?user=EdeSufiatti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
