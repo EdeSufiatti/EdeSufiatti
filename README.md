@@ -2,195 +2,129 @@
 
 # Edemir Sufiatti
 
-### Full Stack Developer • ERP Integrations • Enterprise Systems • AI Applied Solutions
+### Full Stack Developer • Integrações ERP • Sistemas Corporativos • IA Aplicada
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Enterprise%20Technology%20Solutions&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Soluções%20Tecnológicas%20para%20Operações%20Reais&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edemir%20Sufiatti-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edemir-sufiatti-5360644b)
-[![Website](https://img.shields.io/badge/Website-ADOCS-16a34a?style=for-the-badge&logo=googlechrome)](https://www.adocs.com.br)
-[![GitHub followers](https://img.shields.io/github/followers/EdeSufiatti?style=for-the-badge)](https://github.com/EdeSufiatti)
+[![Website](https://img.shields.io/badge/Site-ADOCS-16a34a?style=for-the-badge&logo=googlechrome)](https://www.adocs.com.br)
+[![GitHub](https://img.shields.io/badge/GitHub-EdeSufiatti-181717?style=for-the-badge&logo=github)](https://github.com/EdeSufiatti)
+[![FIAP](https://img.shields.io/badge/FIAP-IA%202026--2028-E91E63?style=for-the-badge)](https://www.fiap.com.br)
+
+📍 Pato Branco, PR • Grupo Turim Insumos e Cereais LTDA
 
 </div>
 
 ---
 
-# About Me
+## Sobre mim
 
-Technology professional focused on enterprise systems, ERP integrations, logistics automation, AI-assisted workflows and scalable web applications.
+Profissional de tecnologia com foco em **sistemas corporativos**, **integrações ERP**, **automação logística** e **aplicações web escaláveis**. Atuo na ponte entre operação de negócio e engenharia de software — transformando processos manuais em fluxos digitais confiáveis.
 
-Currently developing real-world solutions involving:
+**Hoje desenvolvo e mantenho:**
 
-- Oracle + PostgreSQL integrations
-- Logistics and billing automation
-- Enterprise workflow systems
-- AI-assisted operational processes
-- WhatsApp + n8n automation
-- Dockerized infrastructure
-- Cloudflare and Linux environments
-- Full Stack enterprise platforms
+- Plataforma **ADOCS** — workflows de faturamento, aprovações comerciais/financeiras, logística e integrações Oracle ↔ PostgreSQL
+- Automações operacionais com **WhatsApp**, **n8n** e APIs REST
+- Projetos acadêmicos de **IA aplicada** na FIAP (Global Solutions, análise de dados, ML e sensores)
+- Infraestrutura **Docker**, **Linux**, **Nginx** e **Cloudflare** em ambientes de produção
 
-I work on projects combining business operations, automation, data synchronization and modern web technologies to solve real operational challenges.
+> Tecnologia deve resolver problemas operacionais reais, automatizar o repetitivo e melhorar a eficiência do negócio.
 
 ---
 
-# Tech Stack
+## Stack principal
 
-## Front-End
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+**Front-end**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-## Back-End
+</td>
+<td valign="top" width="33%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+**Back-end**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 
-## Databases & Infrastructure
+</td>
+<td valign="top" width="33%">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+**Dados & Infra**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
 
-# Enterprise & Real-World Projects
-
-## ADOCS Platform
-
-Enterprise platform focused on operational workflow management.
-
-### Main Features
-
-- Billing workflow management
-- Commercial and financial approvals
-- Logistics scheduling
-- GPS validation
-- ERP integrations
-- Oracle to PostgreSQL synchronization
-- REST APIs
-- WhatsApp automation
-- n8n workflow integrations
-- Docker deployment
-- Cloudflare protection
-
-### Main Stack
-
-- React
-- NestJS
-- PostgreSQL
-- Oracle
-- Docker
-- Linux
-- Cloudflare
+</td>
+</tr>
+</table>
 
 ---
 
-## ERP & Data Integration Systems
+## Projetos em destaque
 
-Development of synchronization and integration systems between enterprise databases and APIs.
+### 🏢 Corporativo — ADOCS
 
-### Focus Areas
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**ADOCS** (produção)](https://www.adocs.com.br) | Plataforma de gestão operacional: faturamento, aprovações, logística, GPS, sync Oracle/PostgreSQL, automações WhatsApp/n8n | React, NestJS, PostgreSQL, Oracle, Docker |
+| [**adocs-react-v1**](https://github.com/EdeSufiatti/adocs-react-v1) | Front-end React da evolução da plataforma ADOCS | React, CSS |
+| [**startandstop_ServicesWindows**](https://github.com/EdeSufiatti/startandstop_ServicesWindows) | Automação de serviços Windows para ambientes corporativos | Python |
 
-- Oracle integrations
-- PostgreSQL synchronization
-- Automated data processing
-- Queue systems
-- API middleware
-- Billing automation
-- Logistics automation
+*Código principal da ADOCS roda em ambiente privado/empresarial; o repositório público expõe a camada front-end.*
 
 ---
 
-## AI & FIAP Projects
+### 🌾 IA & FIAP — Global Solutions
 
-Artificial Intelligence and automation projects developed during FIAP studies.
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**Acqua Orbit DC**](https://github.com/georgiamendesrocha/Fiap_GS_acquaorbit_DC) | GS 2026.1 — POC de data centers sustentáveis: clima NASA POWER, indicadores ESG, ML, R, Streamlit, Oracle opcional *(Grupo 13 — RM571375)* | Python, R, sklearn, Streamlit, Oracle |
+| [**farmtech**](https://github.com/EdeSufiatti/farmtech) | Soluções agrotech com Python — análise e automação agrícola | Python |
+| [**FIAP2026-python-pet**](https://github.com/EdeSufiatti/FIAP2026-python-pet) | Projeto Python FIAP 2026 | Python |
+| [**EdeSufiatti-FIAP_IA_FASE2_CAP1**](https://github.com/EdeSufiatti/EdeSufiatti-FIAP_IA_FASE2_CAP1) | Análise estatística e séries temporais em **R** (FIAP IA) | R |
 
-### Topics
-
-- Python automation
-- Data analysis
-- AI-assisted systems
-- Weather APIs
-- Predictive analysis
-- Agricultural risk analysis
-- Smart automation workflows
+**Em preparação:** *AgroSat Sentinel* — predição de risco hídrico com satélite, sensores e Random Forest (repositório `FIAP_global_solutions`).
 
 ---
 
-# Infrastructure & DevOps
+### 💻 Full Stack — Aplicações
 
-Experience with:
-
-- Linux server administration
-- Docker containerization
-- Nginx reverse proxy
-- HTTPS and SSL
-- Cloudflare security
-- CSP hardening
-- API deployment
-- Systemd services
-- Enterprise environment setup
-- Monitoring and troubleshooting
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**gofisio**](https://github.com/EdeSufiatti/gofisio) | Sistema de agendamento para clínica de fisioterapia (projeto integrador) | JavaScript, React |
+| [**gofisio-app-backend**](https://github.com/EdeSufiatti/gofisio-app-backend) | API backend do Go Fisio | TypeScript, NestJS |
+| [**nestjs-api**](https://github.com/EdeSufiatti/nestjs-api) | API REST com NestJS e boas práticas de arquitetura | TypeScript, NestJS |
+| [**api-orm**](https://github.com/EdeSufiatti/api-orm) | API com camada ORM e PostgreSQL | TypeScript, PostgreSQL |
+| [**site-receitas-react**](https://github.com/EdeSufiatti/site-receitas-react) | Aplicação React com TypeScript | React, TypeScript |
 
 ---
 
-# Current Focus
+## O que estou construindo agora
 
-Currently improving skills and projects involving:
-
-- Artificial Intelligence
-- Enterprise automation
-- ERP integrations
-- Logistics systems
-- Full Stack applications
-- Infrastructure and DevOps
-- Data synchronization
-- Operational efficiency
-- AI-assisted workflows
+```text
+🔄  Integrações Oracle ↔ PostgreSQL na ADOCS
+🤖  Pipelines de IA e análise climática (FIAP GS)
+📊  Dashboards Streamlit e relatórios automatizados (PDF)
+🐳  Deploy containerizado com Docker + Nginx + Cloudflare
+⚙️  Automações n8n e WhatsApp para fluxos operacionais
+```
 
 ---
 
-# Featured Repositories
-
-## Enterprise Systems
-
-- ADOCS related projects
-- ERP integrations
-- Logistics systems
-- Billing workflows
-
-## Full Stack Applications
-
-- React applications
-- NestJS APIs
-- PostgreSQL systems
-- TypeScript projects
-
-## AI & Automation
-
-- Python automation
-- FIAP projects
-- AI-assisted workflows
-- Data analysis systems
-
----
-
-# GitHub Stats
+## GitHub em números
 
 <div align="center">
 
@@ -203,34 +137,18 @@ Currently improving skills and projects involving:
 
 <img src="https://streak-stats.demolab.com/?user=EdeSufiatti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdeSufiatti&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-# Professional Vision
-
-> Technology should solve real operational problems, automate repetitive processes and improve business efficiency.
-
----
-
-# Contact
+## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edemir-sufiatti-5360644b)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edemir-sufiatti-5360644b)
 [![GitHub](https://img.shields.io/badge/GitHub-EdeSufiatti-181717?style=for-the-badge&logo=github)](https://github.com/EdeSufiatti)
-
 [![Website](https://img.shields.io/badge/Website-ADOCS-16a34a?style=for-the-badge&logo=googlechrome)](https://www.adocs.com.br)
 
 </div>
@@ -239,8 +157,8 @@ Currently improving skills and projects involving:
 
 <div align="center">
 
-### Thanks for visiting my profile
+### Obrigado pela visita
 
-Building enterprise technology solutions focused on automation, integration and operational efficiency.
+Construindo soluções enterprise com automação, integração de dados e eficiência operacional.
 
 </div>
