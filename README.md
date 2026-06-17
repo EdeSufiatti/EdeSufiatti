@@ -75,6 +75,8 @@ Profissional de tecnologia com foco em **sistemas corporativos**, **integraçõe
 
 ## Projetos em destaque
 
+*Links abaixo apontam apenas para repositórios **públicos** verificados em [github.com/EdeSufiatti](https://github.com/EdeSufiatti).*
+
 ### 🏢 Corporativo — ADOCS
 
 | Projeto | Descrição | Stack |
@@ -87,16 +89,21 @@ Profissional de tecnologia com foco em **sistemas corporativos**, **integraçõe
 
 ---
 
-### 🌾 IA & FIAP — Global Solutions
+### 🌾 IA & FIAP — AgroTech Solutions
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**Acqua Orbit DC**](https://github.com/georgiamendesrocha/Fiap_GS_acquaorbit_DC) | GS 2026.1 — POC de data centers sustentáveis: clima NASA POWER, indicadores ESG, ML, R, Streamlit, Oracle opcional *(Grupo 13 — RM571375)* | Python, R, sklearn, Streamlit, Oracle |
-| [**farmtech**](https://github.com/EdeSufiatti/farmtech) | Soluções agrotech com Python — análise e automação agrícola | Python |
+| [**FASE3_AT1_Farmtech_dashboard**](https://github.com/EdeSufiatti/FASE3_AT1_Farmtech_dashboard) | Dashboard Streamlit FarmTech: IoT, Oracle, ML e previsão do tempo | Python, Streamlit, Oracle, sklearn |
+| [**FIAP_IA_FASE_2_ATIVIDADE_2**](https://github.com/EdeSufiatti/FIAP_IA_FASE_2_ATIVIDADE_2) | Monitoramento da cultura Tomate Débora — terminal Python + Oracle | Python, Oracle |
+| [**EdeSufiatti-FIAP_IA_FASE2_CAP1**](https://github.com/EdeSufiatti/EdeSufiatti-FIAP_IA_FASE2_CAP1) | Irrigação inteligente ESP32 + análise estatística em R | ESP32, Python, R |
+| [**farmtech**](https://github.com/EdeSufiatti/farmtech) | Gestão agrícola digital — talhões, clima Open-Meteo e insumos | Python, R |
 | [**FIAP2026-python-pet**](https://github.com/EdeSufiatti/FIAP2026-python-pet) | Projeto Python FIAP 2026 | Python |
-| [**EdeSufiatti-FIAP_IA_FASE2_CAP1**](https://github.com/EdeSufiatti/EdeSufiatti-FIAP_IA_FASE2_CAP1) | Análise estatística e séries temporais em **R** (FIAP IA) | R |
 
-**Em preparação:** *AgroSat Sentinel* — predição de risco hídrico com satélite, sensores e Random Forest (repositório `FIAP_global_solutions`).
+**Em preparação (sem repositório público ainda):**
+
+- *Acqua Orbit DC* — GS 2026.1, POC de data centers sustentáveis (clima NASA POWER, ESG, ML)
+- *Classificação de grãos com ML* — CRISP-DM, Seeds Dataset (FIAP CTWP Cap. 3)
+- *AgroSat Sentinel* — predição de risco hídrico com satélite, sensores e Random Forest
 
 ---
 
@@ -105,7 +112,6 @@ Profissional de tecnologia com foco em **sistemas corporativos**, **integraçõe
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [**gofisio**](https://github.com/EdeSufiatti/gofisio) | Sistema de agendamento para clínica de fisioterapia (projeto integrador) | JavaScript, React |
-| [**gofisio-app-backend**](https://github.com/EdeSufiatti/gofisio-app-backend) | API backend do Go Fisio | TypeScript, NestJS |
 | [**nestjs-api**](https://github.com/EdeSufiatti/nestjs-api) | API REST com NestJS e boas práticas de arquitetura | TypeScript, NestJS |
 | [**api-orm**](https://github.com/EdeSufiatti/api-orm) | API com camada ORM e PostgreSQL | TypeScript, PostgreSQL |
 | [**site-receitas-react**](https://github.com/EdeSufiatti/site-receitas-react) | Aplicação React com TypeScript | React, TypeScript |
@@ -116,7 +122,8 @@ Profissional de tecnologia com foco em **sistemas corporativos**, **integraçõe
 
 ```text
 🔄  Integrações Oracle ↔ PostgreSQL na ADOCS
-🤖  Pipelines de IA e análise climática (FIAP GS)
+🌾  Classificação de grãos com ML (CRISP-DM — FIAP CTWP Cap. 3)
+🤖  Global Solutions Acqua Orbit DC — repositório em preparação
 📊  Dashboards Streamlit e relatórios automatizados (PDF)
 🐳  Deploy containerizado com Docker + Nginx + Cloudflare
 ⚙️  Automações n8n e WhatsApp para fluxos operacionais
